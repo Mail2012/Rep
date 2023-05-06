@@ -1,13 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T21:51:39.578Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NtArK9xLtfUnJfI3ubkd" version="21.2.9" type="device">
-  <diagram name="Page-1" id="2CGYf4dFEL7RUuFP_PaQ">
-    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile>
+  <diagram>
+    <mxGraphModel>
       <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="uQW7DyYJ4YReZ2gc84Nx-1" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#xa;&lt;mxfile&gt;&#xa;  &lt;diagram&gt;&#xa;    &lt;mxGraphModel&gt;&#xa;      &lt;root&gt;&#xa;        &lt;mxCell id=&quot;0&quot;/&gt;&#xa;        &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;&#xa;        &lt;mxCell id=&quot;2&quot; value=&quot;Car Company&quot; style=&quot;rounded=1;whiteSpace=wrap;html=1;fillColor=#008cff;strokeColor=#000000;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&#xa;          &lt;mxGeometry x=&quot;280&quot; y=&quot;30&quot; width=&quot;200&quot; height=&quot;60&quot; as=&quot;geometry&quot;/&gt;&#xa;        &lt;/mxCell&gt;&#xa;        &lt;mxCell id=&quot;3&quot; value=&quot;Customers&quot; style=&quot;whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&#xa;          &lt;mxGeometry x=&quot;10&quot; y=&quot;110&quot; width=&quot;80&quot; height=&quot;40&quot; as=&quot;geometry&quot;/&gt;&#xa;        &lt;/mxCell&gt;&#xa;        &lt;mxCell id=&quot;4&quot; value=&quot;Sales and Marketing&quot; style=&quot;whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&#xa;          &lt;mxGeometry x=&quot;130&quot; y=&quot;110&quot; width=&quot;140&quot; height=&quot;40&quot; as=&quot;geometry&quot;/&gt;&#xa;        &lt;/mxCell&gt;&#xa;        &lt;mxCell id=&quot;5&quot; value=&quot;Sales&quot; style=&quot;whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&#xa;          &lt;mxGeometry x=&quot;310&quot; y=&quot;110&quot; width=&quot;80&quot; height=&quot;40&quot; as=&quot;geometry&quot;/&gt;&#xa;        &lt;/mxCell&gt;&#xa;        &lt;mxCell id=&quot;6&quot; value=&quot;Inventory Control&quot; style=&quot;whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&#xa;          &lt;mxGeometry x=&quot;430&quot; y=&quot;110&quot; width=&quot;140&quot; height=&quot;40&quot; as=&quot;geometry&quot;/&gt;&#xa;        &lt;/mxCell&gt;&#xa;        &lt;mxCell id=&quot;7&quot; value=&quot;Manufacturing&quot; style=&quot;whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&#xa;          &lt;mxGeometry x=&quot;10&quot; y=&quot;240&quot; width=&quot;120&quot; height=&quot;40&quot; as=&quot;geometry&quot;/&gt;&#xa;        &lt;/mxCell&gt;&#xa;        &lt;mxCell id=&quot;8&quot; value=&quot;Suppliers&quot; style=&quot;whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&#xa;          &lt;mxGeometry x=&quot;180&quot; y=&quot;240&quot; width=&quot;80&quot; height=&quot;40&quot; as=&quot;geometry&quot;/&gt;&#xa;        &lt;/mxCell&gt;&#xa;        &lt;mxCell id=&quot;9&quot; value=&quot;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;3&quot; target=&quot;4&quot;&gt;&#xa;          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&#xa;        &lt;/mxCell&gt;&#xa;        &lt;mxCell id=&quot;10&quot; value=&quot;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;4&quot; target=&quot;5&quot;&gt;&#xa;          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&#xa;        &lt;/mxCell&gt;&#xa;        &lt;mxCell id=&quot;11&quot; value=&quot;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;5&quot; target=&quot;6&quot;&gt;&#xa;          &lt;mxGeometry" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="610" height="690" as="geometry" />
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="Car Company" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008cff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="200" height="60" as="geometry"/>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+        <mxCell id="3" value="Customers" style="whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4" value="Sales and Marketing" style="whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="5" value="Sales" style="whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="Inventory Control" style="whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="110" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="7" value="Manufacturing" style="whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="8" value="Suppliers" style="whiteSpace=wrap;html=1;fillColor=#e7f1ff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="9" value="" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="" edge="1" parent="1" source="5" target="6">
+          <mxGeometry
