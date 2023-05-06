@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" modified="2023-05-06T22:41:58.910Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qM5H3AgUYywHh7n68X7a" version="21.2.9" type="github">
+  <diagram name="Page-1" id="2CGYf4dFEL7RUuFP_PaQ">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TfvtKy7S-rkfr88Wp-pC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfvtKy7S-rkfr88Wp-pC-2" target="TfvtKy7S-rkfr88Wp-pC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfvtKy7S-rkfr88Wp-pC-2" value="Customer" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TfvtKy7S-rkfr88Wp-pC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfvtKy7S-rkfr88Wp-pC-3" target="TfvtKy7S-rkfr88Wp-pC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfvtKy7S-rkfr88Wp-pC-3" value="Car Company Operations" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TfvtKy7S-rkfr88Wp-pC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfvtKy7S-rkfr88Wp-pC-5" target="TfvtKy7S-rkfr88Wp-pC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfvtKy7S-rkfr88Wp-pC-5" value="Order&lt;br&gt;Database" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfvtKy7S-rkfr88Wp-pC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfvtKy7S-rkfr88Wp-pC-11" target="TfvtKy7S-rkfr88Wp-pC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfvtKy7S-rkfr88Wp-pC-11" value="Manufacturing Process" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TfvtKy7S-rkfr88Wp-pC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TfvtKy7S-rkfr88Wp-pC-15" target="TfvtKy7S-rkfr88Wp-pC-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfvtKy7S-rkfr88Wp-pC-15" value="Inventory Database" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="300" y="610" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfvtKy7S-rkfr88Wp-pC-17" value="Dealer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
